@@ -1,0 +1,80 @@
+{
+    "english": [
+        {
+            "subject": "Grammar",
+            "chapters": [
+                {
+                    "chapter_name": "Indefinite Noun",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/grammar/IndefiniteNoun.json"
+                },
+                {
+                    "chapter_name": "Irregular Noun",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/grammar/IrregularNoun.json"
+                },
+                {
+                    "chapter_name": "Common And Proper Noun",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/grammar/CommonAndProperNoun.json"
+                }
+            ]
+        },
+        {
+            "subject": "SpellingObject",
+            "chapters": [
+                {
+                    "chapter_name": "Birds 1",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Birds_1.json"
+                },
+                {
+                    "chapter_name": "Birds 2",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Birds_2.json"
+                },
+                {
+                    "chapter_name": "Birds 3",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Birds_3.json"
+                }
+            ]
+        }
+    ]
+}
