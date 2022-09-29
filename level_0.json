@@ -2,6 +2,7 @@
     "english": [
         {
             "subject": "Grammar",
+            "request":"44*2+3",
             "chapters": [
                 {
                     "chapter_name": "Indefinite Noun",
@@ -12,7 +13,7 @@
                     "grade3": 1,
                     "grade4": 1,
                     "grade5": 1,
-                    "path": "english/grammar/IndefiniteNoun.json"
+                    "path": "english/grammar/IndefiniteNoun.json"  
                 },
                 {
                     "chapter_name": "Irregular Noun",
@@ -39,7 +40,8 @@
             ]
         },
         {
-            "subject": "SpellingObject",
+            "subject": "Spelling_Object",
+            "request":"44*2+1",
             "chapters": [
                 {
                     "chapter_name": "Birds 1",
@@ -73,6 +75,84 @@
                     "grade4": 1,
                     "grade5": 1,
                     "path": "english/spelling/Birds_3.json"
+                }
+            ]
+        },
+        {
+            "subject": "Spelling_CommonWord",
+            "request":"44*2+2",
+            "chapters": [
+                {
+                    "chapter_name": "Most Common Words 1",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/MostCommonWords_1.json"
+                },
+                {
+                    "chapter_name": "Most Common Words 2",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/MostCommonWords_2.json"
+                },
+                {
+                    "chapter_name": "Words with short ‘a’ sounds",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Words_with_short_a_sounds.json"
+                }
+            ]
+        },
+                {
+            "subject": "Vocabulary",
+            "request":"44*2",
+            "chapters": [
+                {
+                    "chapter_name": "Bathroom_1",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/vocabulary/Bathroom_1.json"
+                },
+                {
+                    "chapter_name": "Bathroom_2",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/vocabulary/Bathroom_2.json"
+                },
+                {
+                    "chapter_name": "Bodyparts_1",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/vocabulary/Bodyparts_1.json"
                 }
             ]
         }
