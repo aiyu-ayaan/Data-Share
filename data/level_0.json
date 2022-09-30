@@ -5,10 +5,12 @@
             "request":"44*2+3",
             "chapters": [
                 {
-                    "chapter_name": "Indefinite Noun",
+                    
+                    "chapter":"english",
+                    "chapter_name": "Grammar Indefinite Noun",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -16,10 +18,12 @@
                     "path": "https://aiyu-ayaan.github.io/Data-Share/data/subjects/Indefinite_Noun.json"  
                 },
                 {
-                    "chapter_name": "Irregular Noun",
+                    
+                    "chapter":"english",
+                    "chapter_name": "Grammar Irregular Noun",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -27,10 +31,11 @@
                     "path": "english/grammar/IrregularNoun.json"
                 },
                 {
-                    "chapter_name": "Common And Proper Noun",
+                    "chapter":"english",
+                    "chapter_name": "Grammar Common And Proper Noun",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -44,10 +49,11 @@
             "request":"44*2+1",
             "chapters": [
                 {
-                    "chapter_name": "Birds 1",
+                    "chapter":"english",
+                    "chapter_name": "Spelling_Object Birds 1",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -55,10 +61,11 @@
                     "path": "english/spelling/Birds_1.json"
                 },
                 {
-                    "chapter_name": "Birds 2",
+                    "chapter":"english",
+                    "chapter_name": "Spelling_Object Birds 2",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -66,10 +73,11 @@
                     "path": "english/spelling/Birds_2.json"
                 },
                 {
-                    "chapter_name": "Birds 3",
+                    "chapter":"english",
+                    "chapter_name": "Spelling_Object Birds 3",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -83,10 +91,11 @@
             "request":"44*2+2",
             "chapters": [
                 {
-                    "chapter_name": "Most Common Words 1",
+                    "chapter":"english",
+                    "chapter_name": "Spelling_CommonWord Most Common Words 1",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -94,10 +103,11 @@
                     "path": "english/spelling/MostCommonWords_1.json"
                 },
                 {
-                    "chapter_name": "Most Common Words 2",
+                    "chapter":"english",
+                    "chapter_name": "Spelling_CommonWord Most Common Words 2",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -105,10 +115,11 @@
                     "path": "english/spelling/MostCommonWords_2.json"
                 },
                 {
-                    "chapter_name": "Words with short ‘a’ sounds",
+                    "chapter":"english",
+                    "chapter_name": "Spelling_CommonWord Words with short ‘a’ sounds",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -122,10 +133,11 @@
             "request":"44*2",
             "chapters": [
                 {
-                    "chapter_name": "Bathroom_1",
+                    "chapter":"english",
+                    "chapter_name": "Vocabulary Bathroom_1",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -133,10 +145,11 @@
                     "path": "english/vocabulary/Bathroom_1.json"
                 },
                 {
-                    "chapter_name": "Bathroom_2",
+                    "chapter":"english",
+                    "chapter_name": "Vocabulary Bathroom_2",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
@@ -144,10 +157,11 @@
                     "path": "english/vocabulary/Bathroom_2.json"
                 },
                 {
-                    "chapter_name": "Bodyparts_1",
+                    "chapter":"english",
+                    "chapter_name": "Vocabulary Bodyparts_1",
                     "unlock": 0,
                     "isCompleted": 0,
-                    "grades": 1,
+                    "grade1": 1,
                     "grade2": 1,
                     "grade3": 1,
                     "grade4": 1,
