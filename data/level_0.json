@@ -6,7 +6,7 @@
             "chapters": [
                 {
                     
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Grammar Indefinite Noun",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -19,7 +19,7 @@
                 },
                 {
                     
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Grammar Irregular Noun",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -31,7 +31,7 @@
                     "path": "english/grammar/IrregularNoun.json"
                 },
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Grammar Common And Proper Noun",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -49,7 +49,7 @@
             "request":"44*2+1",
             "chapters": [
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Spelling_Object Birds 1",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -61,7 +61,7 @@
                     "path": "english/spelling/Birds_1.json"
                 },
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Spelling_Object Birds 2",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -73,7 +73,7 @@
                     "path": "english/spelling/Birds_2.json"
                 },
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Spelling_Object Birds 3",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -91,7 +91,7 @@
             "request":"44*2+2",
             "chapters": [
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Spelling_CommonWord Most Common Words 1",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -103,7 +103,7 @@
                     "path": "english/spelling/MostCommonWords_1.json"
                 },
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Spelling_CommonWord Most Common Words 2",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -115,7 +115,7 @@
                     "path": "english/spelling/MostCommonWords_2.json"
                 },
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Spelling_CommonWord Words with short ‘a’ sounds",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -133,7 +133,7 @@
             "request":"44*2",
             "chapters": [
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Vocabulary Bathroom_1",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -145,7 +145,7 @@
                     "path": "english/vocabulary/Bathroom_1.json"
                 },
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Vocabulary Bathroom_2",
                     "unlock": 0,
                     "isCompleted": 0,
@@ -157,7 +157,7 @@
                     "path": "english/vocabulary/Bathroom_2.json"
                 },
                 {
-                    "chapter":"english",
+                    "chapter":"English",
                     "chapter_name": "Vocabulary Bodyparts_1",
                     "unlock": 0,
                     "isCompleted": 0,
